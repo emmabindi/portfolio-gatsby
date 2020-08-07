@@ -9,18 +9,18 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hi, my name is ',
+  name: 'Emma Bindi',
+  subtitle: 'I\'m a developer.',
+  cta: 'About Me',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'Para 1',
-  paragraphTwo: 'Para 2',
-  paragraphThree: ' Para 3',
+  paragraphOne: 'I\'m a full stack developer in training, currently learning Ruby, CSS, HTML, Ruby on Rails and the JavaScript MERN stack (MongoDB, Express, React, Node.js) as a part of the FastTrack Bootcamp at CoderAcademy.',
+  paragraphTwo: 'Currently based in Melbourne, Australia.',
+  paragraphThree: 'Besides coding, I am passionate about keeping active, cooking and the great outdoors.',
   resume: 'https://www.canva.com/design/DAD537q-73k/gLuMJwjvuZ3I1UH__9Ixbg/view?utm_content=DAD537q-73k&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton', 
 };
 
@@ -28,30 +28,31 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'LocalVore.jpg',
+    title: 'LocalVore',
+    info: 'Two Sided Marketplace built with Ruby on Rails.',
+    info2: 'LocalVore was created to provide a platform that easily connects home gardeners who have a bounty of fresh produce, with people in their community seeking fresh, local and nutritious produce.',
+    url: 'https://radiant-shelf-48298.herokuapp.com/',
+    repo: 'https://github.com/emmabindi/localvore', 
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'Codex.jpg',
+    title: 'Codex',
+    info: 'Learning and productivity app for developers.',
+    info2: 'Built using React on Rails and styled with SASS.' +
+    'Test driven development using RSPEC and Cypress',
+    url: 'https://codex-app.netlify.app/',
+    repo: 'https://github.com/emmabindi/Codex-API', 
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'SeeNippon.jpg',
+    title: 'See Nippon',
+    info: '2 Day Hackathon: React on Rails',
+    info2: 'Travel Blogging & Tips dedicated to the country of Japan',
+    url: 'https://www.linkedin.com/feed/update/urn:li:activity:6687209713194672128/',
+    repo: 'https://github.com/emmabindi/SeeNippon', 
   },
 ];
 
@@ -59,7 +60,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'emma.bindi@outlook.com',
 };
 
 // FOOTER DATA
