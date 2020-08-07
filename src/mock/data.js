@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Emma Bindi | Developer', // e.g: 'Name | Developer'
-  lang: 'en', // e.g: en, es, fr, jp
-  description: 'Portfolio Site', // e.g: Welcome to my website
+  title: 'Emma Bindi | Developer', 
+  lang: 'en', 
+  description: 'Portfolio Site', 
 };
 
 // HERO DATA
@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne: 'Para 1',
+  paragraphTwo: 'Para 2',
+  paragraphThree: ' Para 3',
+  resume: 'https://www.canva.com/design/DAD537q-73k/gLuMJwjvuZ3I1UH__9Ixbg/view?utm_content=DAD537q-73k&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton', 
 };
 
 // PROJECTS DATA
