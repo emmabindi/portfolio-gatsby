@@ -22,7 +22,7 @@ export const aboutData = {
     "I'm a full stack developer, focusing on Ruby on Rails and the JavaScript MERN Stack. I recently completed a 6 month intensive bootcamp with High Distinction at CoderAcademy in Melbourne where I was the Women in Tech Scholarship recipient.",
   paragraphTwo: 'Currently based in Melbourne, Australia.',
   paragraphThree:
-    'Other than coding, I am passionate about people, cheering on Daniel Ricciardo in F1, growing a permaculture based garden, and I have regular and utterly disproportinate cravings for German food. Fortunately, I also cannot go without being active every day, be it running, pilates or yoga.',
+    'Other than coding, I am passionate about people, cheering on Daniel Ricciardo in F1, tending to my herb garden, and I have regular cravings for Fresh Toast or a crispy pork Bahn Mi. Fortunately, I also cannot go without being active every day, be it running, pilates or yoga.',
   resume:
     'https://www.canva.com/design/DAD537q-73k/gLuMJwjvuZ3I1UH__9Ixbg/view?utm_content=DAD537q-73k&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton',
 };
