@@ -33,12 +33,12 @@ const Header = () => {
             <br />
             {/* <Typist>{subtitle || 'Subtitle Here'}</Typist> */}
             <Typist>
-              <span> I&apos;m a developer.. </span>
-              <Typist.Backspace count={15} delay={250} />
-              <span> an F1 fanatic.. </span>
-              <Typist.Backspace count={17} delay={250} />
-              <span> a pretty OK cook.. </span>
-              <Typist.Backspace count={20} delay={250} />
+              <span> I&apos;m a developer... </span>
+              <Typist.Backspace count={16} delay={250} />
+              <span> an F1 fanatic... </span>
+              <Typist.Backspace count={18} delay={250} />
+              <span> a pretty OK cook... </span>
+              <Typist.Backspace count={21} delay={250} />
               <span>
                 {' '}
                 a proud owner of a Lassie dog{' '}
@@ -48,10 +48,10 @@ const Header = () => {
               </span>
               <Typist.Backspace count={32} delay={270} />
               <span> passionate about lo-fi wines.. </span>
-              <Typist.Backspace count={31} delay={250} />
+              <Typist.Backspace count={32} delay={250} />
               <span> a lover of sunshine & the great outdoors.. </span>
-              <Typist.Backspace count={50} delay={250} />
-              <span> I&apos;m a developer. </span>
+              <Typist.Backspace count={45} delay={250} />
+              <span> a developer. </span>
             </Typist>
           </h1>
         </Fade>
